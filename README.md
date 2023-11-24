@@ -10,7 +10,7 @@ Open Terminal/Command Prompt:
 This can be done by searching for "Command Prompt" (Windows) or "Terminal" (macOS/Linux) in the system search.
 Navigate to Project Directory:
 
-- Use the cd command to navigate to the directory where your Node.js script (QuestionPaperGenerator.js) is located.
+ - Use the cd command to navigate to the directory where your Node.js script (QuestionPaperGenerator.js) is located.
 bash
 Copy code
 cd path/to/your/project
