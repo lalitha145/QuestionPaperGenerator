@@ -22,10 +22,10 @@ bash
 - # Copy code
 node QuestionPaperGenerator.js
 Replace QuestionPaperGenerator.js with the name of your Node.js script file if it's named differently.
-- #Follow the Script Prompts:
+- # Follow the Script Prompts:
 
 - The script will start executing and display prompts in the terminal.
-Follow the prompts to add questions manually and provide input for generating the question paper.
+ Follow the prompts to add questions manually and provide input for generating the question paper.
 Enter the necessary information as requested by the script:
 Add questions manually (question text, subject, topic, difficulty, marks).
 - Input the total marks for the question paper.
